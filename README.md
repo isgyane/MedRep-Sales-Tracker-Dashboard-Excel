@@ -1,6 +1,4 @@
 # Excel Sales Dashboard Project
-## Overview
-
 I developed a comprehensive Excel dashboard to visualize and manage sales data, providing key insights and predictions to support business decision-making as a medical representative. This tool is being used by all medical representatives.
 
 ## Project Features

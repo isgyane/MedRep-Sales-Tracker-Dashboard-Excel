@@ -1,6 +1,8 @@
 # Excel Sales Dashboard Project
 I developed a comprehensive Excel dashboard to visualize and manage sales data, providing key insights and predictions to support business decision-making as a medical representative. This tool is being used by all medical representatives.
 
+![Dashboard](/images/Dashboard%20Page.gif)
+
 ## Project Features
 1. Sales Dashboard: Displays sales data over different time periods, including year-to-date (YTD) and growth over the previous year. Users can interact with charts to see detailed sales trends and comparisons.
 2. Orders Page: Simplifies the entry of sales data, ensuring accurate and up-to-date information.
